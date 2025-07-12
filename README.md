@@ -1,1 +1,3 @@
 # user-feedback-form
+
+This project is a simple web-based feedback form built with HTML, CSS, and JavaScript. It allows users to enter their name, email, and comments, and then submit that information dynamically. Key features include real-time character counting, tooltip display on field hover, form validation to prevent empty submissions, event delegation for efficient input handling, and appending valid feedback to a display container. This project demonstrates DOM manipulation, event-driven programming, and responsive form behavior using basic front-end development techniques.
