@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", () => {
     if (e.target.tagName === "INPUT" || e.target.tagName === "TEXTAREA") {
       const tooltip = e.target.nextElementSibling;
       if (tooltip && tooltip.classList.contains("tooltip")) {
-        tooltip.style.display = "inline";
+        tooltip.style.display = "inline-block";
       }
     }
   });
